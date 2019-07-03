@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "firstName": "Avi",
+        "lastName": "Avi",
+        "address": "Remez 10",
+        "city": "Haifa",
+        "telephoneNumber": "0505234234",
+        "email": "avi@avi.com",
+        "password": "avi123",
+        "profileImage": "app/assets/img",
+        // "facebook": "facebook",
+        // "instagram": "instagram",
+        "trainersID": [1],
+        "trains": []
+    },
+    {
+        "id": 2,
+        "firstName": "Beni",
+        "lastName": "Beni",
+        "address": "Remez 20",
+        "city": "Haifa",
+        "telephoneNumber": "0505234234",
+        "email": "beni@beni.com",
+        "password": "beni123",
+        "profileImage": "app/assets/img",
+        // "facebook": "facebook",
+        // "instagram": "instagram",
+        "trainersID": [1],
+        "trains": []   
+    },
+    {
+        "id": 3,
+        "firstName": "Gili",
+        "lastName": "Gili",
+        "address": "Remez 30",
+        "city": "Haifa",
+        "telephoneNumber": "0505234234",
+        "email": "gili@gili.com",
+        "password": "gili123",
+        "profileImage": "app/assets/img",
+        // "facebook": "facebook",
+        // "instagram": "instagram",
+        "trainersID": [2],
+        "trains": []
+    },
+    {
+        "id": 4,
+        "firstName": "Dani",
+        "lastName": "Dani",
+        "address": "Remez 40",
+        "city": "Haifa",
+        "telephoneNumber": "0505234234",
+        "email": "dani@dani.com",
+        "password": "dani123",
+        "profileImage": "app/assets/img",
+        // "facebook": "facebook",
+        // "instagram": "instagram",
+        "trainersID": [2],
+        "trains": []
+    }
+]

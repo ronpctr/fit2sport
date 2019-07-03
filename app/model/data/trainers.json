@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "firstName": "Matan",
+        "lastName": "Matan",
+        "nickName": "Street Warrior",
+        "address": "Kaplan 20",
+        "city": "Nahariya",
+        "telephoneNumber": "0505123123",
+        "email": "matan@matan.com",
+        "password": "matan123",
+        "profileDescription": "Professional personal trainer, over 7 years of experience and main expertise at street workout",
+        "profileImage": "app/assets/img/alexander-redl-d3bYmnZ0ank-unsplash",
+        // "facebook": "facebook",
+        // "instagram": "instagram",
+        "trainingMoto": "Be the one that push the limit",
+        "trainingFields": ["running", "cycling", "crossfit", "street workout"],
+        "trainingLocations": ["Kaplan 20 Nahariya", "Hertsel 80 Nahariya"],
+        "traineesID": [1,2],
+        "traineesNumber": 2
+    },
+    {
+        "id": 2,
+        "firstName": "Arad",
+        "lastName": "Arad",
+        "nickName": "Street Athlete",
+        "address": "Balfur 20",
+        "city": "Nahariya",
+        "telephoneNumber": "0505123123",
+        "email": "arad@arad.com",
+        "password": "arad123",
+        "profileDescription": "Personal trainer, over 5 years of experience and main expertise at gymnastics",
+        "profileImage": "app/assets/img/jonny-hayes-QoSmF_FOC90-unsplash",
+        // "facebook": "facebook",
+        // "instagram": "instagram",
+        "trainingMoto": "Be the one that goes extreme",
+        "trainingFields": ["crossfit", "street workout"],
+        "trainingLocations": ["Balfur 20 Nahariya", "Hertsel 80 Nahariya"],
+        "traineesID": [3,4],
+        "traineesNumber": 2
+    }
+]
